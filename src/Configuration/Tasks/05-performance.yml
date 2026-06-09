@@ -157,7 +157,6 @@ actions:
   # ═══════════════════════════════════════════════════════════
   # SESSION MANAGER
   # ═══════════════════════════════════════════════════════════
-  # Process mitigations: disable all system-wide (Atlas/FSOS/Sapphire/vain13 method)
   - !powerShell:
     command: >-
       Set-ProcessMitigation -System -Disable
@@ -178,7 +177,7 @@ actions:
   - !registryValue: {path: 'HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power', value: 'PowerSettingProfile', type: REG_DWORD, data: '0', errorAction: Ignore}
 
   # ═══════════════════════════════════════════════════════════
-  # GAME DVR / GAME CONFIG (owned by 11-networking.yml)
+  # GAME DVR / GAME CONFIG
   # ═══════════════════════════════════════════════════════════
   - !registryValue: {path: 'HKCU\SOFTWARE\Microsoft\GameBar', value: 'UseNexusForGameBarEnabled', type: REG_DWORD, data: '0', errorAction: Ignore}
   - !registryValue: {path: 'HKCU\SOFTWARE\Microsoft\GameBar', value: 'AutoGameModeEnabled', type: REG_DWORD, data: '1', errorAction: Ignore}
