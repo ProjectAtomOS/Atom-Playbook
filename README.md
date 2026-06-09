@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![AME Wizard](https://img.shields.io/badge/AME%20Wizard-Compatible-orange.svg)](https://ameliorated.io)
 
-[Download](https://github.com/projectatom1/Atom-Playbook/releases) • [Documentation](https://www.atom-os.com/docs) • [Website](https://www.atom-os.com/) • [Report Bug](info@atom-os.com)
+[Download](https://github.com/ProjectAtomOS/Atom-Playbook/releases/tag/0.0.5) • [Documentation](https://www.atom-os.com/docs) • [Website](https://www.atom-os.com/) • [Report Bug](info@atom-os.com)
 
 ---
 
