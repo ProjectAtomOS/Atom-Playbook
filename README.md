@@ -340,16 +340,4 @@ Removed apps can be reinstalled from:
 ---
 
 ## Contributing
-
 We welcome contributions from the community.
-
-### Ways to Contribute
-1. **Report Bugs** – [Open an issue](https://discord.com/invite/9ZCgxhaYV6)
-2. **Suggest Features** – Share ideas in discussions
-3. **Submit Pull Requests** – Improve the playbook
-4. **Test** – Try on different Windows versions and configurations
-5. **Documentation** – Help improve guides and docs
-6. **Translations** – Help translate documentation
-
-### Development Setup
-```bash
