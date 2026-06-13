@@ -134,7 +134,7 @@ Before proceeding, ensure you have:
 3. Extract and run `AME Wizard.exe`
 
 ### Step 2: Download Atom Playbook
-1. Go to [Releases]([https://github.com/projectatom1/Atom-Playbook/releases](https://github.com/ProjectAtomOS/Atom-Playbook/releases))
+1. Go to [Releases](https://github.com/ProjectAtomOS/Atom-Playbook/releases)
 2. Download `AtomPlaybook_0.0.5.apbx`
 3. Verify file integrity (checksums provided in release)
 
